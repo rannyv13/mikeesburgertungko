@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url("mikees-bg.jpg");
+    background-image: url("mikees-bg.jpg");
     background-size: cover;
     background-repeat: repeat;
     /* margin: 0 20px; */
